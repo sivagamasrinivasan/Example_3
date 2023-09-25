@@ -38,7 +38,7 @@ public class PrintStudentDetails {
             {
                 System.out.println(list[i].getName() + " "+list[i].getAge());
             }
-                  
+       // fetch + merge           
     }
     
 }
