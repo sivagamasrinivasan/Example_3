@@ -26,10 +26,14 @@ public class PrintStudentDetails {
          Student s3 = new Student(); // s3 - object
         s3.setName("kiran");
         s3.setAge(20);
+         Student s4 = new Student(); // s4 - object
+        s4.setName("radwan");
+        s4.setAge(21);
         //store object in array
           list[0] = s1;       
             list[1] = s2;   
-            list[2] = s2;   
+            list[2] = s2;  
+        list[3]= s4;
             for(int i=0;i<list.length;i++) //read the array 
             {
                 System.out.println(list[i].getName() + " "+list[i].getAge());
