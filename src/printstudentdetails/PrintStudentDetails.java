@@ -5,7 +5,7 @@
 package printstudentdetails;
 
 /** 2023,25
- *
+ * this is the branch parttime
  * @author srinivsi
  */
 public class PrintStudentDetails {
@@ -15,7 +15,7 @@ public class PrintStudentDetails {
      */
     public static void main(String[] args)
     {
-      Student[] list = new Student[3] ;  //array of object decalration
+      Student[] list = new Student[4] ;  //array of object decalration
       //define 3 students  by creating object of student class
         Student s1 = new Student(); // s1 - object
         s1.setName("peter");
