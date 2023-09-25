@@ -5,7 +5,7 @@
 package printstudentdetails;
 
 /**
- *
+ * this is branch parttime class
  * @author kumar
  */
 public class PartTime {
