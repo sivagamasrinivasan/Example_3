@@ -10,7 +10,7 @@ package printstudentdetails;
  */
 public class PartTime {
     private int numofcourses;
-
+private int semyear;
     /**
      * @return the numofcourses
      */
